@@ -68,8 +68,6 @@ This dashboard helps:
 
 📁 Power BI Dashboard (.pbix)
 
-📁 Project Report (.pdf)
-
 📁 Dataset Files
 
 📁 Dashboard Screenshots
